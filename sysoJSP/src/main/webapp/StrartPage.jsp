@@ -130,6 +130,7 @@
                     <section id="banner">
                         <h2>온라인 스터디 카페</h2>
                         <p>여기에 무슨 문구를 넣어야 할까요?</p>
+                        <p>  푸쉬 테스트 한번만 해볼게요</p>
                         <ul class="actions special">
                             <li><a href="#" class="button primary">회원가입</a></li>
                             <li><a href="#" class="button">더보기</a></li>
